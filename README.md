@@ -1,5 +1,5 @@
 # ChannelShiftAnalysis
-Code to analyze the movement of channels in a timelapse image sequence
+This is code to analyze the movement of channels in a timelapse image sequence
 
 Our lab developed a method of shifting channels through the surrounding PDMS matrix. Analysis of the channel movement had involved a significant amount of manual work and lack of reproducibility given the small amount of measurements able to be performed on our large datasets. This Python script was developed to improve the accuracy of the results and to enable analyses not possible with single point manual measurements. 
 
